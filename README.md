@@ -1,1 +1,1 @@
-# go_crach_course
+# go_crash_course
